@@ -1,4 +1,4 @@
-package com.example.juc.status;
+package com.example.juc.waitAndnotify;
 
 import lombok.SneakyThrows;
 
